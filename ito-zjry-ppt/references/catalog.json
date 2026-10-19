@@ -1,0 +1,3924 @@
+{
+  "source": [
+    {
+      "slide": 1,
+      "part": "ppt/slides/slide1.xml",
+      "objects": [
+        {
+          "id": 2,
+          "name": "标题 1",
+          "kind": "sp",
+          "text": ""
+        },
+        {
+          "id": 3,
+          "name": "副标题 2",
+          "kind": "sp",
+          "text": ""
+        },
+        {
+          "id": 7,
+          "name": "文本占位符 6",
+          "kind": "sp",
+          "text": ""
+        },
+        {
+          "id": 9,
+          "name": "图片 8",
+          "kind": "pic",
+          "text": ""
+        },
+        {
+          "id": 13,
+          "name": "圆角矩形 12",
+          "kind": "sp",
+          "text": ""
+        },
+        {
+          "id": 11,
+          "name": "图片 10",
+          "kind": "pic",
+          "text": ""
+        },
+        {
+          "id": 12,
+          "name": "图片 11",
+          "kind": "pic",
+          "text": ""
+        },
+        {
+          "id": 18,
+          "name": "图片 17",
+          "kind": "pic",
+          "text": ""
+        },
+        {
+          "id": 19,
+          "name": "图片 18",
+          "kind": "pic",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "slide": 2,
+      "part": "ppt/slides/slide2.xml",
+      "objects": [
+        {
+          "id": 2,
+          "name": "标题 1",
+          "kind": "sp",
+          "text": ""
+        },
+        {
+          "id": 3,
+          "name": "副标题 2",
+          "kind": "sp",
+          "text": ""
+        },
+        {
+          "id": 7,
+          "name": "文本占位符 6",
+          "kind": "sp",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "slide": 3,
+      "part": "ppt/slides/slide3.xml",
+      "objects": [
+        {
+          "id": 6,
+          "name": "Picture 7",
+          "kind": "pic",
+          "text": ""
+        },
+        {
+          "id": 10,
+          "name": "文本占位符 5",
+          "kind": "sp",
+          "text": "医院全景图"
+        }
+      ]
+    },
+    {
+      "slide": 4,
+      "part": "ppt/slides/slide4.xml",
+      "objects": [
+        {
+          "id": 4,
+          "name": "图片占位符 3",
+          "kind": "sp",
+          "text": ""
+        },
+        {
+          "id": 5,
+          "name": "文本占位符 4",
+          "kind": "sp",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "slide": 5,
+      "part": "ppt/slides/slide5.xml",
+      "objects": [
+        {
+          "id": 2,
+          "name": "标题 1",
+          "kind": "sp",
+          "text": "例1"
+        },
+        {
+          "id": 6,
+          "name": "内容占位符 5",
+          "kind": "sp",
+          "text": "第一条第二条第三条………………"
+        }
+      ]
+    },
+    {
+      "slide": 6,
+      "part": "ppt/slides/slide6.xml",
+      "objects": [
+        {
+          "id": 4,
+          "name": "文本占位符 3",
+          "kind": "sp",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "slide": 7,
+      "part": "ppt/slides/slide7.xml",
+      "objects": [
+        {
+          "id": 18,
+          "name": "内容占位符 17",
+          "kind": "graphicFrame",
+          "text": ""
+        },
+        {
+          "id": 4,
+          "name": "文本占位符 3",
+          "kind": "sp",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "slide": 8,
+      "part": "ppt/slides/slide8.xml",
+      "objects": [
+        {
+          "id": 4,
+          "name": "内容占位符 3",
+          "kind": "graphicFrame",
+          "text": ""
+        },
+        {
+          "id": 5,
+          "name": "文本占位符 4",
+          "kind": "sp",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "slide": 9,
+      "part": "ppt/slides/slide9.xml",
+      "objects": [
+        {
+          "id": 5,
+          "name": "内容占位符 4",
+          "kind": "graphicFrame",
+          "text": ""
+        },
+        {
+          "id": 4,
+          "name": "文本占位符 3",
+          "kind": "sp",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "slide": 10,
+      "part": "ppt/slides/slide10.xml",
+      "objects": [
+        {
+          "id": 4,
+          "name": "内容占位符 3",
+          "kind": "graphicFrame",
+          "text": ""
+        },
+        {
+          "id": 5,
+          "name": "文本占位符 4",
+          "kind": "sp",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "slide": 11,
+      "part": "ppt/slides/slide11.xml",
+      "objects": [
+        {
+          "id": 5,
+          "name": "内容占位符 4",
+          "kind": "graphicFrame",
+          "text": ""
+        },
+        {
+          "id": 4,
+          "name": "文本占位符 3",
+          "kind": "sp",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "slide": 12,
+      "part": "ppt/slides/slide12.xml",
+      "objects": [
+        {
+          "id": 8,
+          "name": "TextBox 21",
+          "kind": "sp",
+          "text": "此处为具体描述文字——山不在高，有仙则名。水不在深，有龙则灵。斯是陋室，惟吾德馨。苔痕上阶绿，草色入帘青。谈笑有鸿儒，往来无白丁。可以调素琴，阅金经。"
+        },
+        {
+          "id": 9,
+          "name": "Rectangle 22",
+          "kind": "sp",
+          "text": "描述文字"
+        },
+        {
+          "id": 10,
+          "name": "Group 102",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 19,
+          "name": "Group 115",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 28,
+          "name": "Group 126",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 37,
+          "name": "Group 137",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 46,
+          "name": "Freeform 5",
+          "kind": "sp",
+          "text": ""
+        },
+        {
+          "id": 47,
+          "name": "Freeform 5",
+          "kind": "sp",
+          "text": ""
+        },
+        {
+          "id": 48,
+          "name": "Freeform 5",
+          "kind": "sp",
+          "text": ""
+        },
+        {
+          "id": 49,
+          "name": "Freeform 5",
+          "kind": "sp",
+          "text": ""
+        },
+        {
+          "id": 50,
+          "name": "Group 266",
+          "kind": "grpSp",
+          "text": "75%"
+        },
+        {
+          "id": 53,
+          "name": "Group 220",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 66,
+          "name": "Group 233",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 79,
+          "name": "Group 267",
+          "kind": "grpSp",
+          "text": "25%"
+        },
+        {
+          "id": 82,
+          "name": "Group 249",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 89,
+          "name": "Group 268",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 96,
+          "name": "Text Placeholder 3",
+          "kind": "sp",
+          "text": "100%"
+        },
+        {
+          "id": 97,
+          "name": "Text Placeholder 3",
+          "kind": "sp",
+          "text": "80%"
+        },
+        {
+          "id": 98,
+          "name": "Text Placeholder 3",
+          "kind": "sp",
+          "text": "90%"
+        },
+        {
+          "id": 99,
+          "name": "Text Placeholder 3",
+          "kind": "sp",
+          "text": "50%"
+        }
+      ]
+    },
+    {
+      "slide": 13,
+      "part": "ppt/slides/slide13.xml",
+      "objects": [
+        {
+          "id": 5,
+          "name": "Group 59",
+          "kind": "grpSp",
+          "text": "此处为具体描述文字。.关键词"
+        },
+        {
+          "id": 8,
+          "name": "Group 57",
+          "kind": "grpSp",
+          "text": "此处为具体描述文字。关键词"
+        },
+        {
+          "id": 11,
+          "name": "Group 58",
+          "kind": "grpSp",
+          "text": "此处为具体描述文字。.关键词"
+        },
+        {
+          "id": 14,
+          "name": "Group 56",
+          "kind": "grpSp",
+          "text": "此处为具体描述文字。关键词"
+        },
+        {
+          "id": 17,
+          "name": "Group 56",
+          "kind": "grpSp",
+          "text": "此处为具体描述文字。关键词"
+        },
+        {
+          "id": 20,
+          "name": "Group 58",
+          "kind": "grpSp",
+          "text": "此处为具体描述文字。.关键词"
+        },
+        {
+          "id": 23,
+          "name": "Group 73",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 26,
+          "name": "Group 74",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 29,
+          "name": "Group 81",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 32,
+          "name": "Group 84",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 35,
+          "name": "Straight Connector 87",
+          "kind": "cxnSp",
+          "text": ""
+        },
+        {
+          "id": 36,
+          "name": "Straight Connector 89",
+          "kind": "cxnSp",
+          "text": ""
+        },
+        {
+          "id": 37,
+          "name": "Group 98",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 44,
+          "name": "Group 100",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 47,
+          "name": "Group 99",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 50,
+          "name": "Group 101",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 56,
+          "name": "Group 102",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 64,
+          "name": "Group 103",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 72,
+          "name": "Freeform 110",
+          "kind": "sp",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "slide": 14,
+      "part": "ppt/slides/slide14.xml",
+      "objects": [
+        {
+          "id": 2,
+          "name": "Rounded Rectangle 122",
+          "kind": "sp",
+          "text": ""
+        },
+        {
+          "id": 6,
+          "name": "Group 121",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 17,
+          "name": "Group 58",
+          "kind": "grpSp",
+          "text": "此处为具体描述文字——山不在高，有仙则名。水不在深，有龙则灵。斯是陋室，惟吾德馨。苔痕上阶绿，草色入帘青。谈笑有鸿儒，往来无白丁。关键词"
+        },
+        {
+          "id": 20,
+          "name": "TextBox 127",
+          "kind": "sp",
+          "text": "此处为具体描述文字——山不在高，有仙则名。水不在深，有龙则灵。斯是陋室，惟吾德馨。苔痕上阶绿，草色入帘青。谈笑有鸿儒，往来无白丁。可以调素琴，阅金经。无丝竹之乱耳，无案牍之劳形。南阳诸葛庐，西蜀子云亭。孔子云：何陋之有？"
+        },
+        {
+          "id": 21,
+          "name": "Rectangle 128",
+          "kind": "sp",
+          "text": "标题处"
+        },
+        {
+          "id": 22,
+          "name": "Group 145",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 28,
+          "name": "Group 151",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 33,
+          "name": "Freeform 14",
+          "kind": "sp",
+          "text": ""
+        },
+        {
+          "id": 34,
+          "name": "Freeform 18",
+          "kind": "sp",
+          "text": ""
+        },
+        {
+          "id": 35,
+          "name": "TextBox 160",
+          "kind": "sp",
+          "text": "关键词此处为具体描述文字。"
+        },
+        {
+          "id": 36,
+          "name": "TextBox 161",
+          "kind": "sp",
+          "text": "关键词此处为具体描述文字。"
+        },
+        {
+          "id": 37,
+          "name": "TextBox 164",
+          "kind": "sp",
+          "text": "关键词此处为具体描述文字。"
+        },
+        {
+          "id": 38,
+          "name": "TextBox 165",
+          "kind": "sp",
+          "text": "关键词此处为具体描述文字。"
+        },
+        {
+          "id": 39,
+          "name": "TextBox 47",
+          "kind": "sp",
+          "text": "关键词此处为具体描述文字。"
+        },
+        {
+          "id": 40,
+          "name": "Group 49",
+          "kind": "grpSp",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "slide": 15,
+      "part": "ppt/slides/slide15.xml",
+      "objects": [
+        {
+          "id": 5,
+          "name": "Group 175",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 11,
+          "name": "Group 206",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 15,
+          "name": "Group 216",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 23,
+          "name": "Group 224",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 29,
+          "name": "Group 231",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 33,
+          "name": "Group 232",
+          "kind": "grpSp",
+          "text": "编号此处为具体描述文字——山不在高，有仙则名。水不在深，有龙则灵。斯是陋室，惟吾德馨。"
+        },
+        {
+          "id": 36,
+          "name": "Text Placeholder 3",
+          "kind": "sp",
+          "text": "50%"
+        },
+        {
+          "id": 37,
+          "name": "Group 248",
+          "kind": "grpSp",
+          "text": "编号此处为具体描述文字——山不在高，有仙则名。水不在深，有龙则灵。斯是陋室，惟吾德馨。"
+        },
+        {
+          "id": 40,
+          "name": "Text Placeholder 3",
+          "kind": "sp",
+          "text": "60%"
+        },
+        {
+          "id": 41,
+          "name": "Group 252",
+          "kind": "grpSp",
+          "text": "编号此处为具体描述文字——山不在高，有仙则名。水不在深，有龙则灵。斯是陋室，惟吾德馨。"
+        },
+        {
+          "id": 44,
+          "name": "Text Placeholder 3",
+          "kind": "sp",
+          "text": "80%"
+        },
+        {
+          "id": 45,
+          "name": "Group 256",
+          "kind": "grpSp",
+          "text": "编号此处为具体描述文字——山不在高，有仙则名。水不在深，有龙则灵。斯是陋室，惟吾德馨。"
+        },
+        {
+          "id": 48,
+          "name": "Text Placeholder 3",
+          "kind": "sp",
+          "text": "90%"
+        }
+      ]
+    },
+    {
+      "slide": 16,
+      "part": "ppt/slides/slide16.xml",
+      "objects": [
+        {
+          "id": 2,
+          "name": "Rounded Rectangle 52",
+          "kind": "sp",
+          "text": ""
+        },
+        {
+          "id": 3,
+          "name": "Group 58",
+          "kind": "grpSp",
+          "text": "此处为具体描述文字——山不在高，有仙则名。水不在深，有龙则灵。斯是陋室，惟吾德馨。苔痕上阶绿，草色入帘青。谈笑有鸿儒，往来无白丁。关键词"
+        },
+        {
+          "id": 9,
+          "name": "Group 47",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 12,
+          "name": "Group 24",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 17,
+          "name": "Group 34",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 24,
+          "name": "Freeform 26",
+          "kind": "sp",
+          "text": ""
+        },
+        {
+          "id": 25,
+          "name": "Group 46",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 29,
+          "name": "Rectangular Callout 57",
+          "kind": "sp",
+          "text": ""
+        },
+        {
+          "id": 30,
+          "name": "Freeform 36",
+          "kind": "sp",
+          "text": ""
+        },
+        {
+          "id": 31,
+          "name": "TextBox 59",
+          "kind": "sp",
+          "text": "关键词此处为具体描述文字。"
+        },
+        {
+          "id": 32,
+          "name": "TextBox 60",
+          "kind": "sp",
+          "text": "关键词此处为具体描述文字。"
+        },
+        {
+          "id": 33,
+          "name": "TextBox 61",
+          "kind": "sp",
+          "text": "关键词此处为具体描述文字。"
+        },
+        {
+          "id": 34,
+          "name": "TextBox 62",
+          "kind": "sp",
+          "text": "关键词此处为具体描述文字。"
+        },
+        {
+          "id": 35,
+          "name": "Group 75",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 45,
+          "name": "TextBox 76",
+          "kind": "sp",
+          "text": "关键词此处为具体描述文字。"
+        },
+        {
+          "id": 46,
+          "name": "Group 90",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 57,
+          "name": "TextBox 91",
+          "kind": "sp",
+          "text": "关键词此处为具体描述文字。"
+        }
+      ]
+    },
+    {
+      "slide": 17,
+      "part": "ppt/slides/slide17.xml",
+      "objects": [
+        {
+          "id": 5,
+          "name": "Rectangular Callout 7",
+          "kind": "sp",
+          "text": ""
+        },
+        {
+          "id": 6,
+          "name": "Rectangular Callout 9",
+          "kind": "sp",
+          "text": ""
+        },
+        {
+          "id": 7,
+          "name": "Rectangular Callout 8",
+          "kind": "sp",
+          "text": ""
+        },
+        {
+          "id": 8,
+          "name": "Rounded Rectangle 11",
+          "kind": "sp",
+          "text": ""
+        },
+        {
+          "id": 9,
+          "name": "Rounded Rectangle 12",
+          "kind": "sp",
+          "text": ""
+        },
+        {
+          "id": 10,
+          "name": "Rounded Rectangle 13",
+          "kind": "sp",
+          "text": ""
+        },
+        {
+          "id": 11,
+          "name": "Isosceles Triangle 14",
+          "kind": "sp",
+          "text": ""
+        },
+        {
+          "id": 12,
+          "name": "Isosceles Triangle 15",
+          "kind": "sp",
+          "text": ""
+        },
+        {
+          "id": 13,
+          "name": "Isosceles Triangle 16",
+          "kind": "sp",
+          "text": ""
+        },
+        {
+          "id": 14,
+          "name": "Group 134",
+          "kind": "grpSp",
+          "text": "01"
+        },
+        {
+          "id": 17,
+          "name": "Group 129",
+          "kind": "grpSp",
+          "text": "02"
+        },
+        {
+          "id": 20,
+          "name": "Group 130",
+          "kind": "grpSp",
+          "text": "03"
+        },
+        {
+          "id": 23,
+          "name": "Rectangle 28",
+          "kind": "sp",
+          "text": "描述文字"
+        },
+        {
+          "id": 24,
+          "name": "Freeform 121",
+          "kind": "sp",
+          "text": ""
+        },
+        {
+          "id": 25,
+          "name": "Group 30",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 28,
+          "name": "Freeform 30",
+          "kind": "sp",
+          "text": ""
+        },
+        {
+          "id": 29,
+          "name": "TextBox 34",
+          "kind": "sp",
+          "text": "关键词具体描述内容"
+        },
+        {
+          "id": 30,
+          "name": "TextBox 35",
+          "kind": "sp",
+          "text": "关键词具体描述内容"
+        },
+        {
+          "id": 31,
+          "name": "TextBox 36",
+          "kind": "sp",
+          "text": "关键词具体描述内容"
+        },
+        {
+          "id": 32,
+          "name": "Text Placeholder 3",
+          "kind": "sp",
+          "text": "50%"
+        },
+        {
+          "id": 33,
+          "name": "Text Placeholder 3",
+          "kind": "sp",
+          "text": "60%"
+        },
+        {
+          "id": 34,
+          "name": "Text Placeholder 3",
+          "kind": "sp",
+          "text": "30%"
+        }
+      ]
+    },
+    {
+      "slide": 18,
+      "part": "ppt/slides/slide18.xml",
+      "objects": [
+        {
+          "id": 2,
+          "name": "Rounded Rectangle 239",
+          "kind": "sp",
+          "text": ""
+        },
+        {
+          "id": 3,
+          "name": "Rounded Rectangle 238",
+          "kind": "sp",
+          "text": ""
+        },
+        {
+          "id": 7,
+          "name": "Isosceles Triangle 82",
+          "kind": "sp",
+          "text": ""
+        },
+        {
+          "id": 8,
+          "name": "Oval 68",
+          "kind": "sp",
+          "text": ""
+        },
+        {
+          "id": 9,
+          "name": "Freeform 5",
+          "kind": "sp",
+          "text": ""
+        },
+        {
+          "id": 10,
+          "name": "Freeform 9",
+          "kind": "sp",
+          "text": ""
+        },
+        {
+          "id": 11,
+          "name": "Freeform 5",
+          "kind": "sp",
+          "text": ""
+        },
+        {
+          "id": 12,
+          "name": "Freeform 9",
+          "kind": "sp",
+          "text": ""
+        },
+        {
+          "id": 13,
+          "name": "Freeform 13",
+          "kind": "sp",
+          "text": ""
+        },
+        {
+          "id": 14,
+          "name": "Freeform 13",
+          "kind": "sp",
+          "text": ""
+        },
+        {
+          "id": 15,
+          "name": "Freeform 5",
+          "kind": "sp",
+          "text": ""
+        },
+        {
+          "id": 16,
+          "name": "Group 240",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 23,
+          "name": "Group 241",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 30,
+          "name": "Group 144",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 37,
+          "name": "Group 20",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 41,
+          "name": "Group 26",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 47,
+          "name": "Freeform 35",
+          "kind": "sp",
+          "text": ""
+        },
+        {
+          "id": 48,
+          "name": "TextBox 205",
+          "kind": "sp",
+          "text": "关键词此处为具体描述文字。"
+        },
+        {
+          "id": 49,
+          "name": "TextBox 206",
+          "kind": "sp",
+          "text": "关键词此处为具体描述文字。"
+        },
+        {
+          "id": 50,
+          "name": "TextBox 217",
+          "kind": "sp",
+          "text": "关键词此处为具体描述文字。"
+        },
+        {
+          "id": 51,
+          "name": "TextBox 229",
+          "kind": "sp",
+          "text": "关键词此处为具体描述文字。"
+        },
+        {
+          "id": 52,
+          "name": "Freeform 39",
+          "kind": "sp",
+          "text": ""
+        },
+        {
+          "id": 53,
+          "name": "Text Placeholder 3",
+          "kind": "sp",
+          "text": "40%"
+        },
+        {
+          "id": 54,
+          "name": "Text Placeholder 3",
+          "kind": "sp",
+          "text": "60%"
+        }
+      ]
+    },
+    {
+      "slide": 19,
+      "part": "ppt/slides/slide19.xml",
+      "objects": [
+        {
+          "id": 5,
+          "name": "Freeform 110",
+          "kind": "sp",
+          "text": ""
+        },
+        {
+          "id": 6,
+          "name": "Group 18",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 10,
+          "name": "Group 19",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 14,
+          "name": "TextBox 20",
+          "kind": "sp",
+          "text": "关键词此处为具体描述文字。"
+        },
+        {
+          "id": 15,
+          "name": "TextBox 21",
+          "kind": "sp",
+          "text": "关键词此处为具体描述文字。"
+        },
+        {
+          "id": 16,
+          "name": "Group 22",
+          "kind": "grpSp",
+          "text": "关键词80%"
+        },
+        {
+          "id": 22,
+          "name": "Group 29",
+          "kind": "grpSp",
+          "text": "关键词90%"
+        },
+        {
+          "id": 28,
+          "name": "Rounded Rectangle 35",
+          "kind": "sp",
+          "text": ""
+        },
+        {
+          "id": 29,
+          "name": "Rounded Rectangle 36",
+          "kind": "sp",
+          "text": ""
+        },
+        {
+          "id": 30,
+          "name": "Group 50",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 33,
+          "name": "Group 53",
+          "kind": "grpSp",
+          "text": "75%"
+        },
+        {
+          "id": 36,
+          "name": "Group 83",
+          "kind": "grpSp",
+          "text": "25%"
+        },
+        {
+          "id": 39,
+          "name": "Straight Connector 101",
+          "kind": "cxnSp",
+          "text": ""
+        },
+        {
+          "id": 40,
+          "name": "Freeform 5",
+          "kind": "sp",
+          "text": ""
+        },
+        {
+          "id": 41,
+          "name": "Freeform 6",
+          "kind": "sp",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "slide": 20,
+      "part": "ppt/slides/slide20.xml",
+      "objects": [
+        {
+          "id": 5,
+          "name": "Straight Connector 101",
+          "kind": "cxnSp",
+          "text": ""
+        },
+        {
+          "id": 6,
+          "name": "Group 69",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 9,
+          "name": "Freeform 18",
+          "kind": "sp",
+          "text": ""
+        },
+        {
+          "id": 10,
+          "name": "Group 11",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 14,
+          "name": "Group 17",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 17,
+          "name": "Elbow Connector 102",
+          "kind": "cxnSp",
+          "text": ""
+        },
+        {
+          "id": 18,
+          "name": "Elbow Connector 113",
+          "kind": "cxnSp",
+          "text": ""
+        },
+        {
+          "id": 19,
+          "name": "Elbow Connector 114",
+          "kind": "cxnSp",
+          "text": ""
+        },
+        {
+          "id": 20,
+          "name": "Elbow Connector 125",
+          "kind": "cxnSp",
+          "text": ""
+        },
+        {
+          "id": 21,
+          "name": "Group 66",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 26,
+          "name": "Group 126",
+          "kind": "grpSp",
+          "text": "75%"
+        },
+        {
+          "id": 30,
+          "name": "Group 130",
+          "kind": "grpSp",
+          "text": "50%"
+        },
+        {
+          "id": 34,
+          "name": "Group 134",
+          "kind": "grpSp",
+          "text": "85%"
+        },
+        {
+          "id": 38,
+          "name": "Group 138",
+          "kind": "grpSp",
+          "text": "75%"
+        },
+        {
+          "id": 42,
+          "name": "TextBox 142",
+          "kind": "sp",
+          "text": "此处为具体描述文字——山不在高，有仙则名。水不在深，有龙则灵。斯是陋室，惟吾德馨。苔痕上阶绿，草色入帘青。谈笑有鸿儒，往来无白丁。可以调素琴，阅金经。无丝竹之乱耳，无案牍之劳形。南阳诸葛庐，西蜀子云亭。孔子云：何陋之有？"
+        },
+        {
+          "id": 43,
+          "name": "Rectangle 143",
+          "kind": "sp",
+          "text": "描述文字"
+        },
+        {
+          "id": 44,
+          "name": "TextBox 146",
+          "kind": "sp",
+          "text": "关键词"
+        },
+        {
+          "id": 45,
+          "name": "TextBox 148",
+          "kind": "sp",
+          "text": "关键词"
+        },
+        {
+          "id": 46,
+          "name": "TextBox 149",
+          "kind": "sp",
+          "text": "关键词"
+        },
+        {
+          "id": 47,
+          "name": "TextBox 150",
+          "kind": "sp",
+          "text": "关键词"
+        },
+        {
+          "id": 48,
+          "name": "Text Placeholder 3",
+          "kind": "sp",
+          "text": "此处为具体描述文字——山不在高，有仙则名。水不在深，有龙则灵。斯是陋室，惟吾德馨。苔痕上阶绿，草色入帘青。"
+        },
+        {
+          "id": 49,
+          "name": "Freeform 45",
+          "kind": "sp",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "slide": 21,
+      "part": "ppt/slides/slide21.xml",
+      "objects": [
+        {
+          "id": 5,
+          "name": "Round Diagonal Corner Rectangle 34",
+          "kind": "sp",
+          "text": ""
+        },
+        {
+          "id": 6,
+          "name": "Round Diagonal Corner Rectangle 35",
+          "kind": "sp",
+          "text": ""
+        },
+        {
+          "id": 7,
+          "name": "Round Diagonal Corner Rectangle 36",
+          "kind": "sp",
+          "text": ""
+        },
+        {
+          "id": 8,
+          "name": "Round Diagonal Corner Rectangle 37",
+          "kind": "sp",
+          "text": ""
+        },
+        {
+          "id": 9,
+          "name": "Group 78",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 17,
+          "name": "Group 79",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 22,
+          "name": "Group 72",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 30,
+          "name": "Group 74",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 34,
+          "name": "TextBox 80",
+          "kind": "sp",
+          "text": "关键词此处为具体描述文字。"
+        },
+        {
+          "id": 35,
+          "name": "TextBox 81",
+          "kind": "sp",
+          "text": "关键词此处为具体描述文字。"
+        },
+        {
+          "id": 36,
+          "name": "TextBox 82",
+          "kind": "sp",
+          "text": "关键词此处为具体描述文字。"
+        },
+        {
+          "id": 37,
+          "name": "TextBox 83",
+          "kind": "sp",
+          "text": "关键词此处为具体描述文字。"
+        },
+        {
+          "id": 38,
+          "name": "Footer Text",
+          "kind": "sp",
+          "text": "此处为具体描述文字——山不在高，有仙则名。水不在深，有龙则灵。斯是陋室，惟吾德馨。苔痕上阶绿，草色入帘青。谈笑有鸿儒，往来无白丁。可以调素琴，阅金经。无丝竹之乱耳，无案牍之劳形。"
+        },
+        {
+          "id": 39,
+          "name": "Straight Line buttom",
+          "kind": "cxnSp",
+          "text": ""
+        },
+        {
+          "id": 40,
+          "name": "Arc 86",
+          "kind": "sp",
+          "text": ""
+        },
+        {
+          "id": 41,
+          "name": "Arc 87",
+          "kind": "sp",
+          "text": ""
+        },
+        {
+          "id": 42,
+          "name": "Arc 88",
+          "kind": "sp",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "slide": 22,
+      "part": "ppt/slides/slide22.xml",
+      "objects": [
+        {
+          "id": 5,
+          "name": "Text Placeholder 3",
+          "kind": "sp",
+          "text": "01"
+        },
+        {
+          "id": 6,
+          "name": "Text Placeholder 3",
+          "kind": "sp",
+          "text": "02"
+        },
+        {
+          "id": 7,
+          "name": "Text Placeholder 3",
+          "kind": "sp",
+          "text": "03"
+        },
+        {
+          "id": 8,
+          "name": "Freeform 11",
+          "kind": "sp",
+          "text": ""
+        },
+        {
+          "id": 9,
+          "name": "Group 14",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 12,
+          "name": "Group 19",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 27,
+          "name": "Group 29",
+          "kind": "grpSp",
+          "text": "编号 1此处为具体描述文字——山不在高，有仙则名。水不在深，有龙则灵。斯是陋室，惟吾德馨。"
+        },
+        {
+          "id": 30,
+          "name": "Group 29",
+          "kind": "grpSp",
+          "text": "编号 2此处为具体描述文字——山不在高，有仙则名。水不在深，有龙则灵。斯是陋室，惟吾德馨。"
+        },
+        {
+          "id": 33,
+          "name": "Group 29",
+          "kind": "grpSp",
+          "text": "编号 3此处为具体描述文字——山不在高，有仙则名。水不在深，有龙则灵。斯是陋室，惟吾德馨。"
+        },
+        {
+          "id": 36,
+          "name": "Text Placeholder 3",
+          "kind": "sp",
+          "text": "04"
+        },
+        {
+          "id": 37,
+          "name": "Text Placeholder 3",
+          "kind": "sp",
+          "text": "05"
+        },
+        {
+          "id": 38,
+          "name": "Text Placeholder 3",
+          "kind": "sp",
+          "text": "06"
+        },
+        {
+          "id": 39,
+          "name": "Group 29",
+          "kind": "grpSp",
+          "text": "编号 4此处为具体描述文字——山不在高，有仙则名。水不在深，有龙则灵。斯是陋室，惟吾德馨。"
+        },
+        {
+          "id": 42,
+          "name": "Group 29",
+          "kind": "grpSp",
+          "text": "编号 5此处为具体描述文字——山不在高，有仙则名。水不在深，有龙则灵。斯是陋室，惟吾德馨。"
+        },
+        {
+          "id": 45,
+          "name": "Group 29",
+          "kind": "grpSp",
+          "text": "编号 6此处为具体描述文字——山不在高，有仙则名。水不在深，有龙则灵。斯是陋室，惟吾德馨。"
+        },
+        {
+          "id": 48,
+          "name": "Group 36",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 52,
+          "name": "Group 42",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 64,
+          "name": "Group 107",
+          "kind": "grpSp",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "slide": 23,
+      "part": "ppt/slides/slide23.xml",
+      "objects": [
+        {
+          "id": 5,
+          "name": "Group 4",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 10,
+          "name": "Straight Connector 25",
+          "kind": "cxnSp",
+          "text": ""
+        },
+        {
+          "id": 11,
+          "name": "Group 59",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 15,
+          "name": "Rounded Rectangle 31",
+          "kind": "sp",
+          "text": "关键词 01"
+        },
+        {
+          "id": 16,
+          "name": "Rounded Rectangle 32",
+          "kind": "sp",
+          "text": "关键词 02"
+        },
+        {
+          "id": 17,
+          "name": "Rounded Rectangle 33",
+          "kind": "sp",
+          "text": "关键词 03"
+        },
+        {
+          "id": 18,
+          "name": "Group 56",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 21,
+          "name": "Group 58",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 24,
+          "name": "Straight Connector 65",
+          "kind": "cxnSp",
+          "text": ""
+        },
+        {
+          "id": 25,
+          "name": "Group 66",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 29,
+          "name": "Rounded Rectangle 70",
+          "kind": "sp",
+          "text": "关键词 01"
+        },
+        {
+          "id": 30,
+          "name": "Rounded Rectangle 71",
+          "kind": "sp",
+          "text": "关键词 02"
+        },
+        {
+          "id": 31,
+          "name": "Rounded Rectangle 72",
+          "kind": "sp",
+          "text": "关键词 03"
+        },
+        {
+          "id": 32,
+          "name": "Group 73",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 35,
+          "name": "Straight Connector 76",
+          "kind": "cxnSp",
+          "text": ""
+        },
+        {
+          "id": 36,
+          "name": "Group 77",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 40,
+          "name": "Rounded Rectangle 81",
+          "kind": "sp",
+          "text": "关键词 01"
+        },
+        {
+          "id": 41,
+          "name": "Rounded Rectangle 82",
+          "kind": "sp",
+          "text": "关键词 02"
+        },
+        {
+          "id": 42,
+          "name": "Rounded Rectangle 83",
+          "kind": "sp",
+          "text": "关键词 03"
+        },
+        {
+          "id": 43,
+          "name": "Straight Connector 84",
+          "kind": "cxnSp",
+          "text": ""
+        },
+        {
+          "id": 44,
+          "name": "Group 85",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 48,
+          "name": "Rounded Rectangle 89",
+          "kind": "sp",
+          "text": "关键词 01"
+        },
+        {
+          "id": 49,
+          "name": "Rounded Rectangle 90",
+          "kind": "sp",
+          "text": "关键词 02"
+        },
+        {
+          "id": 50,
+          "name": "Rounded Rectangle 91",
+          "kind": "sp",
+          "text": "关键词 03"
+        },
+        {
+          "id": 51,
+          "name": "Freeform 5",
+          "kind": "sp",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "slide": 24,
+      "part": "ppt/slides/slide24.xml",
+      "objects": [
+        {
+          "id": 5,
+          "name": "Group 75",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 19,
+          "name": "Group 76",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 33,
+          "name": "Group 77",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 47,
+          "name": "Elbow Connector 58",
+          "kind": "cxnSp",
+          "text": ""
+        },
+        {
+          "id": 48,
+          "name": "Elbow Connector 62",
+          "kind": "cxnSp",
+          "text": ""
+        },
+        {
+          "id": 49,
+          "name": "Group 29",
+          "kind": "grpSp",
+          "text": "编号 1此处为具体描述文字——山不在高，有仙则名。水不在深，有龙则灵。斯是陋室，惟吾德馨。"
+        },
+        {
+          "id": 52,
+          "name": "Group 29",
+          "kind": "grpSp",
+          "text": "编号 3此处为具体描述文字——山不在高，有仙则名。水不在深，有龙则灵。斯是陋室，惟吾德馨。"
+        },
+        {
+          "id": 55,
+          "name": "Group 29",
+          "kind": "grpSp",
+          "text": "编号 2此处为具体描述文字——山不在高，有仙则名。水不在深，有龙则灵。斯是陋室，惟吾德馨。"
+        },
+        {
+          "id": 58,
+          "name": "Group 129",
+          "kind": "grpSp",
+          "text": "02"
+        },
+        {
+          "id": 61,
+          "name": "Group 130",
+          "kind": "grpSp",
+          "text": "03"
+        },
+        {
+          "id": 64,
+          "name": "Group 134",
+          "kind": "grpSp",
+          "text": "01"
+        },
+        {
+          "id": 67,
+          "name": "Group 87",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 71,
+          "name": "Group 91",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 75,
+          "name": "Group 95",
+          "kind": "grpSp",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "slide": 25,
+      "part": "ppt/slides/slide25.xml",
+      "objects": [
+        {
+          "id": 5,
+          "name": "Rectangle 4",
+          "kind": "sp",
+          "text": ""
+        },
+        {
+          "id": 6,
+          "name": "Straight Connector 9",
+          "kind": "cxnSp",
+          "text": ""
+        },
+        {
+          "id": 7,
+          "name": "Group 29",
+          "kind": "grpSp",
+          "text": "描述此处为具体描述文字——山不在高，有仙则名。水不在深，有龙则灵。"
+        },
+        {
+          "id": 10,
+          "name": "Text Placeholder 3",
+          "kind": "sp",
+          "text": "20%"
+        },
+        {
+          "id": 11,
+          "name": "Group 68",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 20,
+          "name": "Rectangle 22",
+          "kind": "sp",
+          "text": ""
+        },
+        {
+          "id": 21,
+          "name": "Straight Connector 24",
+          "kind": "cxnSp",
+          "text": ""
+        },
+        {
+          "id": 22,
+          "name": "Group 29",
+          "kind": "grpSp",
+          "text": "描述此处为具体描述文字——山不在高，有仙则名。水不在深，有龙则灵。"
+        },
+        {
+          "id": 25,
+          "name": "Text Placeholder 3",
+          "kind": "sp",
+          "text": "30%"
+        },
+        {
+          "id": 26,
+          "name": "Group 69",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 33,
+          "name": "Rectangle 44",
+          "kind": "sp",
+          "text": ""
+        },
+        {
+          "id": 34,
+          "name": "Straight Connector 46",
+          "kind": "cxnSp",
+          "text": ""
+        },
+        {
+          "id": 35,
+          "name": "Group 29",
+          "kind": "grpSp",
+          "text": "描述此处为具体描述文字——山不在高，有仙则名。水不在深，有龙则灵。"
+        },
+        {
+          "id": 38,
+          "name": "Text Placeholder 3",
+          "kind": "sp",
+          "text": "50%"
+        },
+        {
+          "id": 39,
+          "name": "Group 70",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 45,
+          "name": "Chart 60",
+          "kind": "graphicFrame",
+          "text": ""
+        },
+        {
+          "id": 46,
+          "name": "TextBox 61",
+          "kind": "sp",
+          "text": "此处为具体描述文字——山不在高，有仙则名。"
+        },
+        {
+          "id": 47,
+          "name": "Flowchart: Off-page Connector 63",
+          "kind": "sp",
+          "text": ""
+        },
+        {
+          "id": 48,
+          "name": "TextBox 64",
+          "kind": "sp",
+          "text": "此处为具体描述文字——山不在高，有仙则名。"
+        },
+        {
+          "id": 49,
+          "name": "Flowchart: Off-page Connector 65",
+          "kind": "sp",
+          "text": ""
+        },
+        {
+          "id": 50,
+          "name": "TextBox 66",
+          "kind": "sp",
+          "text": "此处为具体描述文字——山不在高，有仙则名。"
+        },
+        {
+          "id": 51,
+          "name": "Flowchart: Off-page Connector 67",
+          "kind": "sp",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "slide": 26,
+      "part": "ppt/slides/slide26.xml",
+      "objects": [
+        {
+          "id": 5,
+          "name": "Group 14",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 8,
+          "name": "Group 13",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 11,
+          "name": "Group 19",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 15,
+          "name": "Group 23",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 19,
+          "name": "Group 27",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 23,
+          "name": "Straight Connector 32",
+          "kind": "cxnSp",
+          "text": ""
+        },
+        {
+          "id": 24,
+          "name": "Elbow Connector 33",
+          "kind": "cxnSp",
+          "text": ""
+        },
+        {
+          "id": 25,
+          "name": "Elbow Connector 34",
+          "kind": "cxnSp",
+          "text": ""
+        },
+        {
+          "id": 26,
+          "name": "Group 179",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 29,
+          "name": "Group 259",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 32,
+          "name": "Group 179",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 35,
+          "name": "TextBox 63",
+          "kind": "sp",
+          "text": "此处为具体描述文字——山不在高，有仙则名。水不在深，有龙则灵。"
+        },
+        {
+          "id": 36,
+          "name": "TextBox 66",
+          "kind": "sp",
+          "text": "此处为具体描述文字——山不在高，有仙则名。水不在深，有龙则灵。"
+        },
+        {
+          "id": 37,
+          "name": "TextBox 69",
+          "kind": "sp",
+          "text": "此处为具体描述文字——山不在高，有仙则名。水不在深，有龙则灵。"
+        },
+        {
+          "id": 38,
+          "name": "Text Placeholder 3",
+          "kind": "sp",
+          "text": "35%"
+        },
+        {
+          "id": 39,
+          "name": "Text Placeholder 3",
+          "kind": "sp",
+          "text": "50%"
+        },
+        {
+          "id": 40,
+          "name": "Text Placeholder 3",
+          "kind": "sp",
+          "text": "15%"
+        },
+        {
+          "id": 41,
+          "name": "Text Placeholder 3",
+          "kind": "sp",
+          "text": "编号 1"
+        },
+        {
+          "id": 42,
+          "name": "Text Placeholder 3",
+          "kind": "sp",
+          "text": "此处为具体描述文字——山不在高，有仙则名。"
+        },
+        {
+          "id": 43,
+          "name": "Text Placeholder 3",
+          "kind": "sp",
+          "text": "01"
+        },
+        {
+          "id": 44,
+          "name": "Text Placeholder 3",
+          "kind": "sp",
+          "text": "编号 2"
+        },
+        {
+          "id": 45,
+          "name": "Text Placeholder 3",
+          "kind": "sp",
+          "text": "此处为具体描述文字——山不在高，有仙则名。"
+        },
+        {
+          "id": 46,
+          "name": "Text Placeholder 3",
+          "kind": "sp",
+          "text": "02"
+        },
+        {
+          "id": 47,
+          "name": "Text Placeholder 3",
+          "kind": "sp",
+          "text": "编号 3"
+        },
+        {
+          "id": 48,
+          "name": "Text Placeholder 3",
+          "kind": "sp",
+          "text": "此处为具体描述文字——山不在高，有仙则名。"
+        },
+        {
+          "id": 49,
+          "name": "Text Placeholder 3",
+          "kind": "sp",
+          "text": "03"
+        }
+      ]
+    },
+    {
+      "slide": 27,
+      "part": "ppt/slides/slide27.xml",
+      "objects": [
+        {
+          "id": 2,
+          "name": "Group 73",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 5,
+          "name": "Group 74",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 8,
+          "name": "Group 81",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 11,
+          "name": "Group 84",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 14,
+          "name": "Group 87",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 17,
+          "name": "Group 90",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 20,
+          "name": "Group 89",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 23,
+          "name": "Group 88",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 29,
+          "name": "Group 59",
+          "kind": "grpSp",
+          "text": "此处为具体描述文字。关键词"
+        },
+        {
+          "id": 32,
+          "name": "Group 58",
+          "kind": "grpSp",
+          "text": "此处为具体描述文字。关键词"
+        },
+        {
+          "id": 35,
+          "name": "Group 56",
+          "kind": "grpSp",
+          "text": "此处为具体描述文字。关键词"
+        },
+        {
+          "id": 38,
+          "name": "Group 56",
+          "kind": "grpSp",
+          "text": "此处为具体描述文字。关键词"
+        },
+        {
+          "id": 41,
+          "name": "Group 30",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 50,
+          "name": "Freeform 35",
+          "kind": "sp",
+          "text": ""
+        },
+        {
+          "id": 51,
+          "name": "Freeform 27",
+          "kind": "sp",
+          "text": ""
+        },
+        {
+          "id": 52,
+          "name": "Group 42",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 56,
+          "name": "Text Placeholder 3",
+          "kind": "sp",
+          "text": "01"
+        },
+        {
+          "id": 57,
+          "name": "Text Placeholder 3",
+          "kind": "sp",
+          "text": "02"
+        },
+        {
+          "id": 58,
+          "name": "Text Placeholder 3",
+          "kind": "sp",
+          "text": "03"
+        },
+        {
+          "id": 59,
+          "name": "Text Placeholder 3",
+          "kind": "sp",
+          "text": "04"
+        }
+      ]
+    },
+    {
+      "slide": 28,
+      "part": "ppt/slides/slide28.xml",
+      "objects": [
+        {
+          "id": 5,
+          "name": "Group 4",
+          "kind": "grpSp",
+          "text": "标题此处为具体描述文字——山不在高，有仙则名。水不在深，有龙则灵。"
+        },
+        {
+          "id": 8,
+          "name": "Oval 9",
+          "kind": "sp",
+          "text": ""
+        },
+        {
+          "id": 9,
+          "name": "Rounded Rectangle 23",
+          "kind": "sp",
+          "text": "关键词"
+        },
+        {
+          "id": 10,
+          "name": "Group 28",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 14,
+          "name": "Group 30",
+          "kind": "grpSp",
+          "text": "标题此处为具体描述文字——山不在高，有仙则名。水不在深，有龙则灵。"
+        },
+        {
+          "id": 17,
+          "name": "Oval 33",
+          "kind": "sp",
+          "text": ""
+        },
+        {
+          "id": 18,
+          "name": "Rounded Rectangle 34",
+          "kind": "sp",
+          "text": "关键词"
+        },
+        {
+          "id": 19,
+          "name": "Freeform 11",
+          "kind": "sp",
+          "text": ""
+        },
+        {
+          "id": 20,
+          "name": "Group 44",
+          "kind": "grpSp",
+          "text": "标题此处为具体描述文字——山不在高，有仙则名。水不在深，有龙则灵。"
+        },
+        {
+          "id": 23,
+          "name": "Oval 47",
+          "kind": "sp",
+          "text": ""
+        },
+        {
+          "id": 24,
+          "name": "Rounded Rectangle 48",
+          "kind": "sp",
+          "text": "关键词"
+        },
+        {
+          "id": 25,
+          "name": "Freeform 15",
+          "kind": "sp",
+          "text": ""
+        },
+        {
+          "id": 26,
+          "name": "Group 55",
+          "kind": "grpSp",
+          "text": "标题此处为具体描述文字——山不在高，有仙则名。水不在深，有龙则灵。"
+        },
+        {
+          "id": 29,
+          "name": "Oval 58",
+          "kind": "sp",
+          "text": ""
+        },
+        {
+          "id": 30,
+          "name": "Rounded Rectangle 59",
+          "kind": "sp",
+          "text": "关键词"
+        },
+        {
+          "id": 31,
+          "name": "Group 67",
+          "kind": "grpSp",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "slide": 29,
+      "part": "ppt/slides/slide29.xml",
+      "objects": [
+        {
+          "id": 5,
+          "name": "Freeform 7",
+          "kind": "sp",
+          "text": ""
+        },
+        {
+          "id": 6,
+          "name": "Freeform 8",
+          "kind": "sp",
+          "text": ""
+        },
+        {
+          "id": 7,
+          "name": "Rectangle 9",
+          "kind": "sp",
+          "text": ""
+        },
+        {
+          "id": 8,
+          "name": "Rectangle 10",
+          "kind": "sp",
+          "text": ""
+        },
+        {
+          "id": 9,
+          "name": "Group 128",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 12,
+          "name": "Group 26",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 19,
+          "name": "Group 91",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 23,
+          "name": "Elbow Connector 101",
+          "kind": "cxnSp",
+          "text": ""
+        },
+        {
+          "id": 24,
+          "name": "Elbow Connector 108",
+          "kind": "cxnSp",
+          "text": ""
+        },
+        {
+          "id": 25,
+          "name": "Elbow Connector 112",
+          "kind": "cxnSp",
+          "text": ""
+        },
+        {
+          "id": 26,
+          "name": "Text Placeholder 3",
+          "kind": "sp",
+          "text": "标题此处为具体描述文字——山不在高，有仙则名。"
+        },
+        {
+          "id": 27,
+          "name": "Text Placeholder 3",
+          "kind": "sp",
+          "text": "标题此处为具体描述文字——山不在高，有仙则名。"
+        },
+        {
+          "id": 28,
+          "name": "Text Placeholder 3",
+          "kind": "sp",
+          "text": "标题此处为具体描述文字——山不在高，有仙则名。"
+        },
+        {
+          "id": 29,
+          "name": "Text Placeholder 3",
+          "kind": "sp",
+          "text": "标题此处为具体描述文字——山不在高，有仙则名。"
+        },
+        {
+          "id": 30,
+          "name": "Straight Connector 51",
+          "kind": "cxnSp",
+          "text": ""
+        },
+        {
+          "id": 31,
+          "name": "Chart 56",
+          "kind": "graphicFrame",
+          "text": ""
+        },
+        {
+          "id": 32,
+          "name": "Freeform 45",
+          "kind": "sp",
+          "text": ""
+        },
+        {
+          "id": 33,
+          "name": "Freeform 45",
+          "kind": "sp",
+          "text": ""
+        },
+        {
+          "id": 34,
+          "name": "Freeform 45",
+          "kind": "sp",
+          "text": ""
+        },
+        {
+          "id": 35,
+          "name": "Freeform 45",
+          "kind": "sp",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "slide": 30,
+      "part": "ppt/slides/slide30.xml",
+      "objects": [
+        {
+          "id": 8,
+          "name": "标题 7",
+          "kind": "sp",
+          "text": ""
+        },
+        {
+          "id": 9,
+          "name": "内容占位符 8",
+          "kind": "sp",
+          "text": ""
+        },
+        {
+          "id": 10,
+          "name": "文本占位符 9",
+          "kind": "sp",
+          "text": ""
+        },
+        {
+          "id": 13,
+          "name": "文本占位符 12",
+          "kind": "sp",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "slide": 31,
+      "part": "ppt/slides/slide31.xml",
+      "objects": [
+        {
+          "id": 6,
+          "name": "标题 5",
+          "kind": "sp",
+          "text": ""
+        },
+        {
+          "id": 7,
+          "name": "图片占位符 6",
+          "kind": "sp",
+          "text": ""
+        },
+        {
+          "id": 8,
+          "name": "文本占位符 7",
+          "kind": "sp",
+          "text": ""
+        },
+        {
+          "id": 13,
+          "name": "文本占位符 12",
+          "kind": "sp",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "slide": 32,
+      "part": "ppt/slides/slide32.xml",
+      "objects": [
+        {
+          "id": 5,
+          "name": "组合 4",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 14,
+          "name": "标题 13",
+          "kind": "sp",
+          "text": ""
+        },
+        {
+          "id": 15,
+          "name": "图片占位符 14",
+          "kind": "sp",
+          "text": ""
+        },
+        {
+          "id": 16,
+          "name": "文本占位符 15",
+          "kind": "sp",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "slide": 33,
+      "part": "ppt/slides/slide33.xml",
+      "objects": [
+        {
+          "id": 8,
+          "name": "图片 7",
+          "kind": "pic",
+          "text": ""
+        },
+        {
+          "id": 10,
+          "name": "图片 9",
+          "kind": "pic",
+          "text": ""
+        },
+        {
+          "id": 12,
+          "name": "图片 11",
+          "kind": "pic",
+          "text": ""
+        },
+        {
+          "id": 14,
+          "name": "图片 13",
+          "kind": "pic",
+          "text": ""
+        },
+        {
+          "id": 16,
+          "name": "图片 15",
+          "kind": "pic",
+          "text": ""
+        },
+        {
+          "id": 18,
+          "name": "图片 17",
+          "kind": "pic",
+          "text": ""
+        },
+        {
+          "id": 20,
+          "name": "图片 19",
+          "kind": "pic",
+          "text": ""
+        },
+        {
+          "id": 22,
+          "name": "图片 21",
+          "kind": "pic",
+          "text": ""
+        },
+        {
+          "id": 24,
+          "name": "图片 23",
+          "kind": "pic",
+          "text": ""
+        },
+        {
+          "id": 26,
+          "name": "图片 25",
+          "kind": "pic",
+          "text": ""
+        },
+        {
+          "id": 28,
+          "name": "图片 27",
+          "kind": "pic",
+          "text": ""
+        },
+        {
+          "id": 30,
+          "name": "图片 29",
+          "kind": "pic",
+          "text": ""
+        },
+        {
+          "id": 32,
+          "name": "图片 31",
+          "kind": "pic",
+          "text": ""
+        },
+        {
+          "id": 34,
+          "name": "图片 33",
+          "kind": "pic",
+          "text": ""
+        },
+        {
+          "id": 36,
+          "name": "图片 35",
+          "kind": "pic",
+          "text": ""
+        },
+        {
+          "id": 38,
+          "name": "图片 37",
+          "kind": "pic",
+          "text": ""
+        },
+        {
+          "id": 40,
+          "name": "图片 39",
+          "kind": "pic",
+          "text": ""
+        },
+        {
+          "id": 42,
+          "name": "图片 41",
+          "kind": "pic",
+          "text": ""
+        },
+        {
+          "id": 44,
+          "name": "图片 43",
+          "kind": "pic",
+          "text": ""
+        },
+        {
+          "id": 46,
+          "name": "图片 45",
+          "kind": "pic",
+          "text": ""
+        },
+        {
+          "id": 48,
+          "name": "图片 47",
+          "kind": "pic",
+          "text": ""
+        },
+        {
+          "id": 50,
+          "name": "图片 49",
+          "kind": "pic",
+          "text": ""
+        },
+        {
+          "id": 52,
+          "name": "图片 51",
+          "kind": "pic",
+          "text": ""
+        },
+        {
+          "id": 54,
+          "name": "图片 53",
+          "kind": "pic",
+          "text": ""
+        },
+        {
+          "id": 27,
+          "name": "文本框 26",
+          "kind": "sp",
+          "text": "素材库页面"
+        },
+        {
+          "id": 2,
+          "name": "图片占位符 1",
+          "kind": "sp",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "slide": 34,
+      "part": "ppt/slides/slide34.xml",
+      "objects": [
+        {
+          "id": 5,
+          "name": "Freeform 5",
+          "kind": "sp",
+          "text": ""
+        },
+        {
+          "id": 6,
+          "name": "Group 266",
+          "kind": "grpSp",
+          "text": "X%"
+        },
+        {
+          "id": 11,
+          "name": "Group 179",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 18,
+          "name": "Group 259",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 23,
+          "name": "Group 137",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 67,
+          "name": "Group 57",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 72,
+          "name": "Freeform 74",
+          "kind": "sp",
+          "text": ""
+        },
+        {
+          "id": 73,
+          "name": "Freeform 121",
+          "kind": "sp",
+          "text": ""
+        },
+        {
+          "id": 74,
+          "name": "Group 70",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 78,
+          "name": "Group 78",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 84,
+          "name": "Group 90",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 99,
+          "name": "Group 28",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 103,
+          "name": "Freeform 11",
+          "kind": "sp",
+          "text": ""
+        },
+        {
+          "id": 104,
+          "name": "Freeform 15",
+          "kind": "sp",
+          "text": ""
+        },
+        {
+          "id": 105,
+          "name": "Group 67",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 108,
+          "name": "Group 30",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 117,
+          "name": "Freeform 35",
+          "kind": "sp",
+          "text": ""
+        },
+        {
+          "id": 118,
+          "name": "Freeform 27",
+          "kind": "sp",
+          "text": ""
+        },
+        {
+          "id": 119,
+          "name": "Group 42",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 148,
+          "name": "组合 147",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 150,
+          "name": "Group 21",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 156,
+          "name": "Freeform 8",
+          "kind": "sp",
+          "text": ""
+        },
+        {
+          "id": 158,
+          "name": "Freeform 7",
+          "kind": "sp",
+          "text": ""
+        },
+        {
+          "id": 162,
+          "name": "Freeform 11",
+          "kind": "sp",
+          "text": ""
+        },
+        {
+          "id": 165,
+          "name": "Group 78",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 173,
+          "name": "Group 79",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 178,
+          "name": "Group 72",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 186,
+          "name": "Group 74",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 190,
+          "name": "Freeform 11",
+          "kind": "sp",
+          "text": ""
+        },
+        {
+          "id": 191,
+          "name": "Group 14",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 194,
+          "name": "Group 19",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 209,
+          "name": "Group 36",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 213,
+          "name": "Group 42",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 225,
+          "name": "Group 107",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 228,
+          "name": "Group 69",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 231,
+          "name": "Freeform 18",
+          "kind": "sp",
+          "text": ""
+        },
+        {
+          "id": 232,
+          "name": "Group 11",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 236,
+          "name": "Group 17",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 239,
+          "name": "Group 66",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 244,
+          "name": "Freeform 110",
+          "kind": "sp",
+          "text": ""
+        },
+        {
+          "id": 245,
+          "name": "Group 18",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 249,
+          "name": "Group 19",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 253,
+          "name": "Group 50",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 256,
+          "name": "Freeform 5",
+          "kind": "sp",
+          "text": ""
+        },
+        {
+          "id": 257,
+          "name": "Freeform 6",
+          "kind": "sp",
+          "text": ""
+        },
+        {
+          "id": 279,
+          "name": "Group 144",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 286,
+          "name": "Group 20",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 290,
+          "name": "Group 26",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 307,
+          "name": "组合 306",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 312,
+          "name": "Freeform 30",
+          "kind": "sp",
+          "text": ""
+        },
+        {
+          "id": 313,
+          "name": "Group 47",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 316,
+          "name": "Group 24",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 321,
+          "name": "Group 34",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 328,
+          "name": "Freeform 26",
+          "kind": "sp",
+          "text": ""
+        },
+        {
+          "id": 329,
+          "name": "Group 46",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 333,
+          "name": "Group 75",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 343,
+          "name": "Group 90",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 354,
+          "name": "Group 175",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 360,
+          "name": "Group 206",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 364,
+          "name": "Group 216",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 372,
+          "name": "Group 224",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 378,
+          "name": "Group 231",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 393,
+          "name": "Freeform 14",
+          "kind": "sp",
+          "text": ""
+        },
+        {
+          "id": 395,
+          "name": "Group 49",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 399,
+          "name": "文本框 398",
+          "kind": "sp",
+          "text": "素材库页面"
+        },
+        {
+          "id": 309,
+          "name": "Group 21",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 386,
+          "name": "Group 43",
+          "kind": "grpSp",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "slide": 35,
+      "part": "ppt/slides/slide35.xml",
+      "objects": [
+        {
+          "id": 8,
+          "name": "Group 57",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 15,
+          "name": "Freeform 74",
+          "kind": "sp",
+          "text": ""
+        },
+        {
+          "id": 18,
+          "name": "Freeform 121",
+          "kind": "sp",
+          "text": ""
+        },
+        {
+          "id": 21,
+          "name": "Group 70",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 27,
+          "name": "Group 78",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 35,
+          "name": "Group 90",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 65,
+          "name": "Group 28",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 70,
+          "name": "Freeform 11",
+          "kind": "sp",
+          "text": ""
+        },
+        {
+          "id": 72,
+          "name": "Freeform 15",
+          "kind": "sp",
+          "text": ""
+        },
+        {
+          "id": 74,
+          "name": "Group 67",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 122,
+          "name": "Group 30",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 131,
+          "name": "Freeform 35",
+          "kind": "sp",
+          "text": ""
+        },
+        {
+          "id": 132,
+          "name": "Freeform 27",
+          "kind": "sp",
+          "text": ""
+        },
+        {
+          "id": 133,
+          "name": "Group 42",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 323,
+          "name": "组合 322",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 162,
+          "name": "Group 21",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 165,
+          "name": "Freeform 8",
+          "kind": "sp",
+          "text": ""
+        },
+        {
+          "id": 166,
+          "name": "Freeform 7",
+          "kind": "sp",
+          "text": ""
+        },
+        {
+          "id": 167,
+          "name": "Freeform 11",
+          "kind": "sp",
+          "text": ""
+        },
+        {
+          "id": 168,
+          "name": "Group 78",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 176,
+          "name": "Group 79",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 181,
+          "name": "Group 72",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 189,
+          "name": "Group 74",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 255,
+          "name": "Freeform 11",
+          "kind": "sp",
+          "text": ""
+        },
+        {
+          "id": 256,
+          "name": "Group 14",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 259,
+          "name": "Group 19",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 274,
+          "name": "Group 36",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 278,
+          "name": "Group 42",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 290,
+          "name": "Group 107",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 293,
+          "name": "Group 69",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 296,
+          "name": "Freeform 18",
+          "kind": "sp",
+          "text": ""
+        },
+        {
+          "id": 297,
+          "name": "Group 11",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 301,
+          "name": "Group 17",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 304,
+          "name": "Group 66",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 309,
+          "name": "Freeform 110",
+          "kind": "sp",
+          "text": ""
+        },
+        {
+          "id": 310,
+          "name": "Group 18",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 314,
+          "name": "Group 19",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 318,
+          "name": "Group 50",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 321,
+          "name": "Freeform 5",
+          "kind": "sp",
+          "text": ""
+        },
+        {
+          "id": 322,
+          "name": "Freeform 6",
+          "kind": "sp",
+          "text": ""
+        },
+        {
+          "id": 324,
+          "name": "Group 144",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 331,
+          "name": "Group 20",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 335,
+          "name": "Group 26",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 341,
+          "name": "Freeform 30",
+          "kind": "sp",
+          "text": ""
+        },
+        {
+          "id": 342,
+          "name": "Group 47",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 345,
+          "name": "Group 24",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 350,
+          "name": "Group 34",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 357,
+          "name": "Freeform 26",
+          "kind": "sp",
+          "text": ""
+        },
+        {
+          "id": 358,
+          "name": "Group 46",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 362,
+          "name": "Group 75",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 372,
+          "name": "Group 90",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 383,
+          "name": "Group 206",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 387,
+          "name": "Group 216",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 395,
+          "name": "Group 224",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 401,
+          "name": "Group 231",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 405,
+          "name": "Freeform 14",
+          "kind": "sp",
+          "text": ""
+        },
+        {
+          "id": 406,
+          "name": "Group 49",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 410,
+          "name": "Freeform 110",
+          "kind": "sp",
+          "text": ""
+        },
+        {
+          "id": 411,
+          "name": "Group 175",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 417,
+          "name": "Freeform 5",
+          "kind": "sp",
+          "text": ""
+        },
+        {
+          "id": 418,
+          "name": "文本框 417",
+          "kind": "sp",
+          "text": "素材库页面"
+        },
+        {
+          "id": 252,
+          "name": "Group 21",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 425,
+          "name": "Group 43",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 423,
+          "name": "组合 422",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 431,
+          "name": "Group 179",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 434,
+          "name": "Group 259",
+          "kind": "grpSp",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "slide": 36,
+      "part": "ppt/slides/slide36.xml",
+      "objects": [
+        {
+          "id": 2,
+          "name": "文本占位符 1",
+          "kind": "sp",
+          "text": "核心制度图标"
+        },
+        {
+          "id": 4,
+          "name": "图片 3",
+          "kind": "pic",
+          "text": ""
+        },
+        {
+          "id": 6,
+          "name": "图片 5",
+          "kind": "pic",
+          "text": ""
+        },
+        {
+          "id": 8,
+          "name": "图片 7",
+          "kind": "pic",
+          "text": ""
+        },
+        {
+          "id": 10,
+          "name": "图片 9",
+          "kind": "pic",
+          "text": ""
+        },
+        {
+          "id": 12,
+          "name": "图片 11",
+          "kind": "pic",
+          "text": ""
+        },
+        {
+          "id": 14,
+          "name": "图片 13",
+          "kind": "pic",
+          "text": ""
+        },
+        {
+          "id": 16,
+          "name": "图片 15",
+          "kind": "pic",
+          "text": ""
+        },
+        {
+          "id": 18,
+          "name": "图片 17",
+          "kind": "pic",
+          "text": ""
+        },
+        {
+          "id": 20,
+          "name": "图片 19",
+          "kind": "pic",
+          "text": ""
+        },
+        {
+          "id": 22,
+          "name": "图片 21",
+          "kind": "pic",
+          "text": ""
+        },
+        {
+          "id": 24,
+          "name": "图片 23",
+          "kind": "pic",
+          "text": ""
+        },
+        {
+          "id": 26,
+          "name": "图片 25",
+          "kind": "pic",
+          "text": ""
+        },
+        {
+          "id": 28,
+          "name": "图片 27",
+          "kind": "pic",
+          "text": ""
+        },
+        {
+          "id": 30,
+          "name": "图片 29",
+          "kind": "pic",
+          "text": ""
+        },
+        {
+          "id": 32,
+          "name": "图片 31",
+          "kind": "pic",
+          "text": ""
+        },
+        {
+          "id": 34,
+          "name": "图片 33",
+          "kind": "pic",
+          "text": ""
+        },
+        {
+          "id": 36,
+          "name": "图片 35",
+          "kind": "pic",
+          "text": ""
+        },
+        {
+          "id": 38,
+          "name": "图片 37",
+          "kind": "pic",
+          "text": ""
+        },
+        {
+          "id": 40,
+          "name": "图片 39",
+          "kind": "pic",
+          "text": ""
+        },
+        {
+          "id": 42,
+          "name": "图片 41",
+          "kind": "pic",
+          "text": ""
+        },
+        {
+          "id": 43,
+          "name": "文本框 42",
+          "kind": "sp",
+          "text": "首诊、三级查房、会诊、护理、交班、疑难讨论抢救、术前讨论、死亡讨论、查对、术前核查、手术分级新项目、危急值、病历、抗菌药物、用血、信息安全"
+        }
+      ]
+    },
+    {
+      "slide": 37,
+      "part": "ppt/slides/slide37.xml",
+      "objects": [
+        {
+          "id": 3,
+          "name": "图片 2",
+          "kind": "pic",
+          "text": ""
+        },
+        {
+          "id": 4,
+          "name": "图片 3",
+          "kind": "pic",
+          "text": ""
+        },
+        {
+          "id": 5,
+          "name": "文本框 4",
+          "kind": "sp",
+          "text": "ZHUJI   PEOPLE`S   HOSPITAL"
+        },
+        {
+          "id": 7,
+          "name": "图片 6",
+          "kind": "pic",
+          "text": ""
+        },
+        {
+          "id": 6,
+          "name": "图片 5",
+          "kind": "pic",
+          "text": ""
+        },
+        {
+          "id": 10,
+          "name": "图片 9",
+          "kind": "pic",
+          "text": ""
+        },
+        {
+          "id": 12,
+          "name": "图片 11",
+          "kind": "pic",
+          "text": ""
+        },
+        {
+          "id": 20,
+          "name": "图片 19",
+          "kind": "pic",
+          "text": ""
+        },
+        {
+          "id": 8,
+          "name": "图片 7",
+          "kind": "pic",
+          "text": ""
+        },
+        {
+          "id": 13,
+          "name": "文本框 12",
+          "kind": "sp",
+          "text": "素材库页面（反白）"
+        }
+      ]
+    },
+    {
+      "slide": 38,
+      "part": "ppt/slides/slide38.xml",
+      "objects": [
+        {
+          "id": 6,
+          "name": "图片 5",
+          "kind": "pic",
+          "text": ""
+        },
+        {
+          "id": 8,
+          "name": "图片 7",
+          "kind": "pic",
+          "text": ""
+        },
+        {
+          "id": 9,
+          "name": "图片 8",
+          "kind": "pic",
+          "text": ""
+        },
+        {
+          "id": 10,
+          "name": "文本框 9",
+          "kind": "sp",
+          "text": "素材库页面"
+        },
+        {
+          "id": 11,
+          "name": "图片 10",
+          "kind": "pic",
+          "text": ""
+        },
+        {
+          "id": 13,
+          "name": "图片 12",
+          "kind": "pic",
+          "text": ""
+        },
+        {
+          "id": 12,
+          "name": "图片 11",
+          "kind": "pic",
+          "text": ""
+        },
+        {
+          "id": 14,
+          "name": "图片 13",
+          "kind": "pic",
+          "text": ""
+        },
+        {
+          "id": 3,
+          "name": "图片 2",
+          "kind": "pic",
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "validated": [
+    {
+      "slide": 1,
+      "part": "ppt/slides/slide1.xml",
+      "objects": [
+        {
+          "id": 2,
+          "name": "标题_可编辑",
+          "kind": "sp",
+          "text": "医院模板复用测试"
+        },
+        {
+          "id": 3,
+          "name": "正文_一级",
+          "kind": "sp",
+          "text": "护理教学与仿真训练（复用测试）"
+        },
+        {
+          "id": 4,
+          "name": "正文_说明",
+          "kind": "sp",
+          "text": "沿用医院白底正文版式，保留院徽、心电线与页码。"
+        },
+        {
+          "id": 5,
+          "name": "正文_长文本",
+          "kind": "sp",
+          "text": "通过情境演练、操作练习与复盘讨论，帮助学习者理解工作流程，并在团队协作中完成训练任务。"
+        }
+      ]
+    },
+    {
+      "slide": 2,
+      "part": "ppt/slides/slide2.xml",
+      "objects": [
+        {
+          "id": 2,
+          "name": "复用_医师",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 6,
+          "name": "复用_护理",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 10,
+          "name": "复用_记录",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 18,
+          "name": "标题_可编辑",
+          "kind": "sp",
+          "text": "医疗图标：青色版本"
+        },
+        {
+          "id": 19,
+          "name": "图标标签_0",
+          "kind": "sp",
+          "text": "医师"
+        },
+        {
+          "id": 20,
+          "name": "图标标签_1",
+          "kind": "sp",
+          "text": "护理"
+        },
+        {
+          "id": 21,
+          "name": "图标标签_2",
+          "kind": "sp",
+          "text": "记录"
+        },
+        {
+          "id": 22,
+          "name": "正文_说明",
+          "kind": "sp",
+          "text": "三个图标均来自原模板，保留原生形状与组合关系。"
+        }
+      ]
+    },
+    {
+      "slide": 3,
+      "part": "ppt/slides/slide3.xml",
+      "objects": [
+        {
+          "id": 2,
+          "name": "复用_医师",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 6,
+          "name": "复用_护理",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 10,
+          "name": "复用_记录",
+          "kind": "grpSp",
+          "text": ""
+        },
+        {
+          "id": 18,
+          "name": "标题_可编辑",
+          "kind": "sp",
+          "text": "医疗图标：反白版本"
+        },
+        {
+          "id": 19,
+          "name": "图标标签_0",
+          "kind": "sp",
+          "text": "医师"
+        },
+        {
+          "id": 20,
+          "name": "图标标签_1",
+          "kind": "sp",
+          "text": "护理"
+        },
+        {
+          "id": 21,
+          "name": "图标标签_2",
+          "kind": "sp",
+          "text": "记录"
+        },
+        {
+          "id": 22,
+          "name": "正文_说明",
+          "kind": "sp",
+          "text": "在青绿色背景中复用反白图标，保持原模板视觉风格。"
+        }
+      ]
+    },
+    {
+      "slide": 4,
+      "part": "ppt/slides/slide4.xml",
+      "objects": [
+        {
+          "id": 2,
+          "name": "Picture 7",
+          "kind": "pic",
+          "text": ""
+        },
+        {
+          "id": 3,
+          "name": "标题_可编辑",
+          "kind": "sp",
+          "text": "医院图文页面"
+        },
+        {
+          "id": 4,
+          "name": "右侧小标题",
+          "kind": "sp",
+          "text": "教学场景说明"
+        },
+        {
+          "id": 5,
+          "name": "右侧正文",
+          "kind": "sp",
+          "text": "使用范本中的医院全景图片。图片与右侧文字为独立对象，可分别替换、移动和调整。"
+        },
+        {
+          "id": 6,
+          "name": "图片注释",
+          "kind": "sp",
+          "text": "医院全景｜图片取自原始范本第 3 页"
+        }
+      ]
+    }
+  ]
+}

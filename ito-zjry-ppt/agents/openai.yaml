@@ -1,0 +1,4 @@
+interface:
+  display_name: "ito-ZJRY-ppt"
+  short_description: "复用诸暨市人民医院原生模板、医疗图标及文字版式，面向 WPS 编辑和交付"
+  default_prompt: "使用 $ito-zjry-ppt 按诸暨市人民医院模板编辑 PPT，保留可编辑文字和原生图标，并在 WPS 中核对。"
